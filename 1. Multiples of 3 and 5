@@ -1,5 +1,7 @@
 import java.util.HashSet;
 
+//NOTE! this is code for java
+
 public class simulation {
     public static int totalSum=0;
     
